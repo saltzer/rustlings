@@ -1,2 +1,1 @@
-# rustlings
-Rustlings solution
+## Rustlings solution
